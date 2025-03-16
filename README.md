@@ -1,6 +1,3 @@
-Here's a README for your **Football Player Face Detection and Details Generation** AI/ML project. You can modify it based on your specific implementation.  
-
----
 
 # ⚽ Football Player Face Detection and Details Generation  
 
